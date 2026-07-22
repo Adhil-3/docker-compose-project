@@ -11,3 +11,4 @@ services:
     ports:
       - "3307:3306"
       # My first Docker Compose file
+      # GitHub upload successful
